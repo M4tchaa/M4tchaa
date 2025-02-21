@@ -4,31 +4,32 @@ I'm an independent Software Engineer and Data Enthusiast! I primarily work with 
 
 - 🌱 Currently exploring AI technology on my journey to becoming a Data Scientist.
 - 💬 Feel free to ask me about Web Development or Data Science.
-- 📩 How to reach me: arlialya@gmail.com
-- ✨ Fun fact: Minecraft gamer, Valorant player, and ~~weeb~~... um, anime and manga enjoyer :D
+- 📫 How to reach me: arlialya@gmail.com
+- ⚡ Fun fact: minecraft gamers, valorant, and ~~weebs~~... um, anime and manga enjoyer :D
 
-## 🚀 Tech Stack
+---
 
-### 🌐 Web Development  
-<p align="left">
-  <a href="#"><img alt="JavaScript" title="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></a>
-  <a href="https://nodejs.org/"><img alt="NodeJS" title="NodeJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/></a>
-  <a href="https://reactjs.org/"><img alt="React" title="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/></a>
-  <a href="https://nextjs.org/"><img alt="NextJS" title="Next.js" width="40px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg"/></a>
-  <a href="https://www.php.net/"><img alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/></a>
-</p>
+### 🚀 Tech Stack
 
-### 📊 Data Science & AI  
-<p align="left">
-  <a href="https://www.python.org/"><img alt="Python" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/></a>
-  <a href="https://numpy.org/"><img alt="NumPy" title="NumPy" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/></a>
-  <a href="https://pandas.pydata.org/"><img alt="Pandas" title="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/></a>
-  <a href="https://scikit-learn.org/"><img alt="Scikit-learn" title="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></a>
-  <a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/></a>
-  <a href="https://pytorch.org/"><img alt="PyTorch" title="PyTorch" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/></a>
-</p>
+#### 🌐 Web Development  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 💪 Github Statistic
+
+#### 📊 Data Science & AI  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+### 📈 Github Statistic
 <p align="left">
 <a href="https://github.com/M4tchaa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M4tchaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -36,7 +37,10 @@ I'm an independent Software Engineer and Data Enthusiast! I primarily work with 
 </a>
 </p>
 
-## 👤 Reach me on
-- [LinkedIn](https://www.linkedin.com/in/arliyandi-m11/)
-- [Portfolio](https://itsmatcha.yukngajibogor.com)
-- [Instagram](https://www.instagram.com/arliyandi_11/)
+---
+
+### 📬 Reach me on
+- 💼 [LinkedIn](https://www.linkedin.com/in/arliyandi-m11/)
+- 🌐 [Portfolio](https://itsmatcha.yukngajibogor.com)
+- 📸 [Instagram](https://www.instagram.com/arliyandi_11/)
+
