@@ -1,11 +1,11 @@
 ### Hi! 👋 I'm Arliyandi.
 
-I'm an independent Software Engineer and Data Enthusiast! I primarily work with JavaScript, PHP and Python to build projects
+I'm an independent Software Engineer and Data Enthusiast! I primarily work with JavaScript, PHP, and Python to build projects.
 
 - 🌱 Currently exploring AI technology on my journey to becoming a Data Scientist.
 - 💬 Feel free to ask me about Web Development or Data Science.
-- 📫 How to reach me: arlialya@gmail.com
-- ⚡ Fun fact: minecraft gamers, valorant, and ~~weebs~~... um, anime and manga enjoyer :D
+- 📩 How to reach me: arlialya@gmail.com
+- ✨ Fun fact: Minecraft gamer, Valorant player, and ~~weeb~~... um, anime and manga enjoyer :D
 
 ## 🚀 Tech Stack
 
@@ -28,8 +28,7 @@ I'm an independent Software Engineer and Data Enthusiast! I primarily work with 
   <a href="https://pytorch.org/"><img alt="PyTorch" title="PyTorch" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/></a>
 </p>
 
-  
-### Github Statistic
+## 💪 Github Statistic
 <p align="left">
 <a href="https://github.com/M4tchaa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M4tchaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -37,7 +36,7 @@ I'm an independent Software Engineer and Data Enthusiast! I primarily work with 
 </a>
 </p>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/arliyandi-m11/">LinkedIn</a>
-- <a href="https://itsmatcha.yukngajibogor.com">Portfolio</a>
-- <a href="https://www.instagram.com/arliyandi_11/">Instagram</a>
+## 👤 Reach me on
+- [LinkedIn](https://www.linkedin.com/in/arliyandi-m11/)
+- [Portfolio](https://itsmatcha.yukngajibogor.com)
+- [Instagram](https://www.instagram.com/arliyandi_11/)
