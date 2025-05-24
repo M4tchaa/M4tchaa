@@ -5,7 +5,7 @@ I'm an independent Software Engineer and Data Enthusiast! I primarily work with 
 - 🌱 Currently exploring AI technology on my journey to becoming a Data Scientist.
 - 💬 Feel free to ask me about Web Development or Data Science.
 - 📫 How to reach me: arlialya@gmail.com
-- ⚡ Fun fact: minecraft gamers, valorant, and ~~weebs~~... um, anime and manga enjoyer :D
+- ⚡ Fun fact: minecraft gamers, valorant, and manga reader
 
 ---
 
